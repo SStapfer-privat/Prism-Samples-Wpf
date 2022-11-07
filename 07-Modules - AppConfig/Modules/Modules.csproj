@@ -8,4 +8,7 @@
   <ItemGroup>
     <PackageReference Include="Prism.Unity" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\07-Modules - Code\ModuleA\ModuleA.csproj" />
+  </ItemGroup>
 </Project>
